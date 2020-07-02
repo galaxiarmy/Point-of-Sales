@@ -1,0 +1,71 @@
+.containe {
+    display: flex;
+    justify-content: space-between;
+}
+
+.padding1 {
+    display: flex;
+    flex-direction: row;
+}
+
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background: grey;
+}
+
+.Hanif1 {
+    padding: 34px;
+}
+
+.gambar1 {
+    margin: 10px;
+}
+
+.card-a {
+    width: 500px;
+    height: 50px;
+    background-color: #cccccf;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+.card-b {
+    width: 500px;
+    height: 400px;
+    background-color: #cccccf;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+.card-c {
+    width: 500px;
+    height: 50px;
+    background-color: #cccccf;
+    margin-right: 20px;
+    margin-bottom: 3px;
+}
+
+.card-d {
+    width: 500px;
+    height: 25px;
+    background-color: #cccccf;
+    margin-right: 20px;
+}
+
+.card-e {
+    width: 500px;
+    height: 50px;
+    background-color: #adadad;
+    margin-right: 20px;
+}
+
+.card-f {
+    width: 500px;
+    height: 70px;
+    background-color: #0a0a70;
+    margin-right: 20px;
+    margin-bottom: 3px;
+}
+
